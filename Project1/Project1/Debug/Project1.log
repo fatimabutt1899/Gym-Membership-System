@@ -1,0 +1,14 @@
+﻿Build started 7/11/2020 7:50:53 PM.
+     1>Project "C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\zaka\desktop\assignment\cp-lab\project sample 3 colored\project1\project1\source.cpp(88): warning C4566: character represented by universal-character-name '\UDE42D83D' cannot be represented in the current code page (1252)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Source.obj
+         Project1.vcxproj -> C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Zaka\Desktop\Assignment\CP-Lab\project sample 3 colored\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.98
